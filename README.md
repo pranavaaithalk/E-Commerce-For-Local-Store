@@ -3,14 +3,14 @@ Basic Tour of the Website!
 ![Screenshot (55)](https://github.com/user-attachments/assets/0e0a4f9c-6c20-46e3-b87e-05466f1de92b)
 This is the main index page for "Sri-Krishna Stores," inviting users to start shopping. It features a welcoming background image of a store interior and two prominent buttons: Signup and Login, enabling new users to register or existing users to access their accounts.
 
-![Screenshot (62)](https://github.com/user-attachments/assets/beca800c-9f1f-4330-b630-278f03d7a575)
-The dashboard page shows the details entered by the user during the signup process.
-
-![Screenshot (56)](https://github.com/user-attachments/assets/c55c85ae-8972-4d4c-a3d4-e37a181181f6)
+![Screenshot (68)](https://github.com/user-attachments/assets/2f518ca1-9f6b-4559-bcd2-f47af7ed6c04)
 This is the signup modal for Sri-Krishna Stores. It allows new users to register by filling in their full name, gender, phone number, email, address, and password. The modal also includes an option to log in if the user already has an account. A "Create Account" button finalizes the registration process.
 
-![Screenshot (57)](https://github.com/user-attachments/assets/85225ac9-2ef8-4607-b744-69a20cf16180)
+![Screenshot (69)](https://github.com/user-attachments/assets/71004aba-97f9-40f8-b661-9e3f1e2b97f1)
 The login modal for Sri-Krishna Stores allows returning users to access their accounts by entering their email and password. It includes a "Login" button to submit the credentials and a link to the signup page for new users who don't have an account yet.
+
+![Screenshot (62)](https://github.com/user-attachments/assets/beca800c-9f1f-4330-b630-278f03d7a575)
+The dashboard page shows the details entered by the user during the signup process.
 
 ![Screenshot (58)](https://github.com/user-attachments/assets/130a6f65-37a3-4a91-8e24-73cb29cc9afd)
 The main item list page of Sri-Krishna Stores shows a selection of products with their images and prices. To get a full description of any item, users can click the "view" button of the respective product. Additionally, they can add items to their cart by clicking the "+" icon. This intuitive interface ensures users can easily explore product details or directly add items to their shopping cart for a streamlined shopping experience.
